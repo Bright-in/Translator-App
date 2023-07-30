@@ -1,4 +1,4 @@
-# Translator-App
+# Development
 This app was made to help students at the North West University understand other languages. 
 The university currently supports 3 languages and so does the app, the languages are English, Afrikaans, and Setswana.
 The app will take any of the 3 languages and translate it into any of the other languages supported.
